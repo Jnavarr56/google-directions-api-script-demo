@@ -1,6 +1,8 @@
 # google-directions-api-script-demo
 
-include a .env file with an `API_KEY` that contains
+Extremely simple python script to get Google maps directions/routes between two addresses and pretty print data to JSON file.
+
+Must include a .env file with an `API_KEY` that contains  
 a valid api key for the Google Directions API.
 
 pipenv/Python 3.8.3
