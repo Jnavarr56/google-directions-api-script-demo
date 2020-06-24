@@ -1,0 +1,338 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJJ_yqd4OKwokRj4GPTCIkoPc",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJdUuw-BFgwokRsIgsFg0zDpM",
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 40.7732199,
+          "lng": -73.8038334
+        },
+        "southwest": {
+          "lat": 40.7580341,
+          "lng": -73.830193
+        }
+      },
+      "copyrights": "Map data \u00a92020",
+      "legs": [
+        {
+          "arrival_time": {
+            "text": "7:11pm",
+            "time_zone": "America/New_York",
+            "value": 1593040271
+          },
+          "departure_time": {
+            "text": "6:45pm",
+            "time_zone": "America/New_York",
+            "value": 1593038743
+          },
+          "distance": {
+            "text": "2.6 mi",
+            "value": 4179
+          },
+          "duration": {
+            "text": "25 mins",
+            "value": 1528
+          },
+          "end_address": "41-02 Main St, Flushing, NY 11355, USA",
+          "end_location": {
+            "lat": 40.7580341,
+            "lng": -73.8294112
+          },
+          "start_address": "26-07 160th St, Flushing, NY 11358, USA",
+          "start_location": {
+            "lat": 40.7732199,
+            "lng": -73.8040791
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 289
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 220
+              },
+              "end_location": {
+                "lat": 40.7711779,
+                "lng": -73.8038395
+              },
+              "html_instructions": "Walk to 29 Av/161 St",
+              "polyline": {
+                "points": "sozwFnzmaMpAJL@~BNL@rDXIiB"
+              },
+              "start_location": {
+                "lat": 40.7732199,
+                "lng": -73.8040791
+              },
+              "steps": [
+                {
+                  "distance": {
+                    "text": "0.1 mi",
+                    "value": 239
+                  },
+                  "duration": {
+                    "text": "3 mins",
+                    "value": 185
+                  },
+                  "end_location": {
+                    "lat": 40.7711259,
+                    "lng": -73.8043711
+                  },
+                  "html_instructions": "Head <b>south</b> on <b>160th St</b> toward <b>27th Ave</b>",
+                  "polyline": {
+                    "points": "sozwFnzmaMpAJL@~BNL@rDX"
+                  },
+                  "start_location": {
+                    "lat": 40.7732199,
+                    "lng": -73.8040791
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "164 ft",
+                    "value": 50
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 35
+                  },
+                  "end_location": {
+                    "lat": 40.7711779,
+                    "lng": -73.8038395
+                  },
+                  "html_instructions": "Turn <b>left</b> onto <b>29th Ave</b>",
+                  "maneuver": "turn-left",
+                  "polyline": {
+                    "points": "qbzwFh|maMIiB"
+                  },
+                  "start_location": {
+                    "lat": 40.7711259,
+                    "lng": -73.8043711
+                  },
+                  "travel_mode": "WALKING"
+                }
+              ],
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "2.1 mi",
+                "value": 3352
+              },
+              "duration": {
+                "text": "12 mins",
+                "value": 695
+              },
+              "end_location": {
+                "lat": 40.7609659,
+                "lng": -73.82720119999999
+              },
+              "html_instructions": "Bus towards FLUSHING MAIN ST STA via FRANCIS LEWIS",
+              "polyline": {
+                "points": "}bzwF~xmaMHAJtB?X@L?P@R?H?F?FAH?LAPEh@GnAIjBMdBKnAInAMzA?PAHUzCAJChA@~BA`@Ax@CrA@F@D@FBlD?D?F?xE?B?P?TBvC?N@^@vA?T?RBlC?F?`@?B@B?DAL@\\DbF@R?DJtADl@Fl@HpAHjARbCFt@Fr@JrAFr@XvD@NH~@TlCHhAD^TrCDh@@P@R@VH~@L|AL|AHbAB`@d@@j@BbCLTBhBFb@DD?D@D@D@D@VJdA^F@NFnAb@r@VlA^hAb@rAPt@JD@L@RBzBT`@Dl@FXDL@TFP@B?@?B?BABANGPG\\Q@?fAa@`Bo@PKHd@L|@^~B^dCNdARCx@YLEBAd@MLGNEPG^I|@WEQCOOw@G_@Ks@ESCSG_@CKQiAKo@HE"
+              },
+              "start_location": {
+                "lat": 40.771187,
+                "lng": -73.80384099999999
+              },
+              "transit_details": {
+                "arrival_stop": {
+                  "location": {
+                    "lat": 40.7609659,
+                    "lng": -73.82720119999999
+                  },
+                  "name": "39 Av /138 St"
+                },
+                "arrival_time": {
+                  "text": "7:04pm",
+                  "time_zone": "America/New_York",
+                  "value": 1593039867
+                },
+                "departure_stop": {
+                  "location": {
+                    "lat": 40.771187,
+                    "lng": -73.80384099999999
+                  },
+                  "name": "29 Av/161 St"
+                },
+                "departure_time": {
+                  "text": "6:49pm",
+                  "time_zone": "America/New_York",
+                  "value": 1593038965
+                },
+                "headsign": "FLUSHING MAIN ST STA via FRANCIS LEWIS",
+                "line": {
+                  "agencies": [
+                    {
+                      "name": "MTA",
+                      "url": "http://www.mta.info/"
+                    }
+                  ],
+                  "color": "#1d59b3",
+                  "name": "Fort Totten - Flushing",
+                  "short_name": "Q16",
+                  "text_color": "#ffffff",
+                  "vehicle": {
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "name": "Bus",
+                    "type": "BUS"
+                  }
+                },
+                "num_stops": 15
+              },
+              "travel_mode": "TRANSIT"
+            },
+            {
+              "distance": {
+                "text": "0.3 mi",
+                "value": 538
+              },
+              "duration": {
+                "text": "7 mins",
+                "value": 394
+              },
+              "end_location": {
+                "lat": 40.7580341,
+                "lng": -73.8294112
+              },
+              "html_instructions": "Walk to 41-02 Main St, Flushing, NY 11355, USA",
+              "polyline": {
+                "points": "ecxwF`kraMJn@RjA@JF^x@Uz@WZhBPhABLJn@h@bDJp@BPLEDAzAm@DCLEb@QVKDCNGBAv@a@LEVG"
+              },
+              "start_location": {
+                "lat": 40.7609889,
+                "lng": -73.8272126
+              },
+              "steps": [
+                {
+                  "distance": {
+                    "text": "243 ft",
+                    "value": 74
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 54
+                  },
+                  "end_location": {
+                    "lat": 40.7607772,
+                    "lng": -73.8280513
+                  },
+                  "html_instructions": "Head <b>west</b> on <b>39th Ave</b> toward <b>Lippman Plaza</b>",
+                  "polyline": {
+                    "points": "ecxwF`kraMJn@RjA@JF^"
+                  },
+                  "start_location": {
+                    "lat": 40.7609889,
+                    "lng": -73.8272126
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "253 ft",
+                    "value": 77
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 51
+                  },
+                  "end_location": {
+                    "lat": 40.7601861,
+                    "lng": -73.8278221
+                  },
+                  "html_instructions": "Turn <b>left</b> onto <b>Lippman Plaza</b>",
+                  "maneuver": "turn-left",
+                  "polyline": {
+                    "points": "{axwFhpraMx@Uz@W"
+                  },
+                  "start_location": {
+                    "lat": 40.7607772,
+                    "lng": -73.8280513
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "0.1 mi",
+                    "value": 206
+                  },
+                  "duration": {
+                    "text": "2 mins",
+                    "value": 135
+                  },
+                  "end_location": {
+                    "lat": 40.7595174,
+                    "lng": -73.8301608
+                  },
+                  "html_instructions": "Turn <b>right</b> onto <b>Roosevelt Ave</b>",
+                  "maneuver": "turn-right",
+                  "polyline": {
+                    "points": "e~wwFznraMZhBPhABLJn@h@bDJp@BPLE"
+                  },
+                  "start_location": {
+                    "lat": 40.7601861,
+                    "lng": -73.8278221
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "0.1 mi",
+                    "value": 181
+                  },
+                  "duration": {
+                    "text": "3 mins",
+                    "value": 154
+                  },
+                  "end_location": {
+                    "lat": 40.7580341,
+                    "lng": -73.8294112
+                  },
+                  "html_instructions": "Turn <b>left</b> onto <b>Main St</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                  "maneuver": "turn-left",
+                  "polyline": {
+                    "points": "_zwwFn}raMDAzAm@DCLEb@QVKDCNGBAv@a@LEVG"
+                  },
+                  "start_location": {
+                    "lat": 40.7595174,
+                    "lng": -73.8301608
+                  },
+                  "travel_mode": "WALKING"
+                }
+              ],
+              "travel_mode": "WALKING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "sozwFnzmaMlF^rDXIiBFALnD@l@IrAQzDYtDWjDAZWfDAhEEvDF`E?vFD|EF`IDtGR|CrA`QfB|Tx@~KjFVxCNvE~A`Cv@hAb@rAPz@L`@DdFh@x@JLC`Aa@hDqAPKHd@l@|Dn@jE~Ae@tAc@|Aa@Ia@i@_Da@iCKo@HEC@Jn@TvAF^x@Uz@WZhBTvAdAvGtBy@nAg@xAq@VG"
+      },
+      "summary": "",
+      "warnings": [
+        "Walking directions are in beta. Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+      ],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}
